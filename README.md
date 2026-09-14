@@ -22,6 +22,9 @@
 
 平台支持 ：手机APP（安卓）、微信小程序、车机、平板
 
+商务wx：szksi8
+
+
 <img width="2880" height="1547" alt="ScreenShot_2026-09-14_081711_583" src="https://github.com/user-attachments/assets/10af54af-9cfa-4768-b47d-d1c80b99a92b" />
 <img width="2880" height="1547" alt="ScreenShot_2026-09-14_082155_695" src="https://github.com/user-attachments/assets/c64151f9-f8e7-46f4-9633-2b5a66d4872b" />
 <img width="2880" height="1547" alt="ScreenShot_2026-09-14_082115_116" src="https://github.com/user-attachments/assets/4c08e273-eec7-48cf-8e41-f5a84c78e15d" />
